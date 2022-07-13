@@ -2,8 +2,6 @@
 
 # Chapter 1 - Day 1
 
-This is my answer for chapter 1 day 1
-
 1. Explain what the Blockchain is in your own words.
 Blockchain is a public, decenterlised ledger that helps solve the double spend problem. Allowing P2P transfers of data without a centerlised entity.
 
