@@ -30,7 +30,11 @@ A: Safety and Security, Clarity, Approachability, Developer Experience and Resou
 2.
 Q: In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)
 
-A: Safety and Security - Allowing for easy troubleshooting and less confusing ways to create accidental vaunrabilities and minimal mistakes. This is important due to the nature of ownership and montetary value.
-Clarity - the language is clear and understandable with fewer glances or double takes.
-Approachbility - the language is user friendly and is encourging to use for new devs.
-Developer Experience - like approachability, ensuring that new engineers feel comfortable with jumping in with minimal road blocks. So the ecosystem can grow.
+A: Safety and Security - Allowing for easy troubleshooting and less confusing ways to create accidental vaunrabilities and minimal mistakes. This is important due to the nature of ownership and montetary value. 
+Clarity - the language is clear and understandable with fewer glances or double takes. 
+Approachbility - the language is user friendly and is encourging to use for new devs. 
+Developer Experience - like approachability, ensuring that new engineers feel comfortable with jumping in with minimal road blocks. So the ecosystem can grow. 
+
+---
+
+# Chapter 2 - day 1
