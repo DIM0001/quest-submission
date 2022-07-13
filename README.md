@@ -2,7 +2,7 @@
 
 # Chapter 1 - Day 1
 
----
+
 1.
 Q: Explain what the Blockchain is in your own words.
 
@@ -17,6 +17,8 @@ A: A Smart Contract is an immutable set of rules that execute when interacted wi
 Q: Explain the difference between a script and a transaction.
 
 A: A script is used to read the blockchain and a transaction is to change data on the blockchain.
+
+---
 
 # Chapter 1 - Day 2
 
